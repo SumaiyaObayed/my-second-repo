@@ -2,4 +2,9 @@ p{
     color: brown;
     border: 20px;
     font-size: large;
+
+}
+span{
+    color: blue;
+    font-weight: 600;
 }
